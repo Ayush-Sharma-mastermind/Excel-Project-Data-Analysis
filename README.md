@@ -1,4 +1,4 @@
-![ Sample Projection of work(C:\Users\DELL\Desktop\PROJECTS\Excel Projects)
+![ Sample Projection of work(https://github.com/Ayush-Sharma-mastermind/Excel-Project-Data-Analysis/blob/main/coffee%20shop%20dashboard.jpg)
 Coffee Shop Sales Analysis Project ☕📊
 Project Overview
 This project focuses on analyzing real-world sales data from a coffee shop using Excel. The goal is to uncover valuable insights into sales patterns, customer behavior, and product performance. These insights will be leveraged to make informed business decisions, ultimately improving sales and operational strategies.
