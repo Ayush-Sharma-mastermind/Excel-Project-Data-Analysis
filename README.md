@@ -1,4 +1,4 @@
-![ Sample Projection of work (https://github.com/Ayush-Sharma-mastermind/Excel-Project-Data-Analysis/blob/main/coffee%20shop%20dashboard.jpg)
+![ Sample Projection of work](https://github.com/Ayush-Sharma-mastermind/Excel-Project-Data-Analysis/blob/main/coffee%20shop%20dashboard.jpg)
 
 Coffee Shop Sales Analysis Project ☕📊
 Project Overview
